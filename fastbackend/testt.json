@@ -1,0 +1,12 @@
+[
+  {"device_id": "device_1", "latitude": 28.613939, "longitude": 77.209021, "timestamp": "2025-11-22T10:15:00Z", "accuracy": 5.0},
+  {"device_id": "device_1", "latitude": 28.614500, "longitude": 77.210500, "timestamp": "2025-11-22T10:16:30Z", "accuracy": 4.8},
+  {"device_id": "device_1", "latitude": 28.615200, "longitude": 77.211800, "timestamp": "2025-11-22T10:18:00Z", "accuracy": 5.2},
+  {"device_id": "device_1", "latitude": 28.615900, "longitude": 77.213000, "timestamp": "2025-11-22T10:19:30Z", "accuracy": 4.9},
+  {"device_id": "device_2", "latitude": 19.076090, "longitude": 72.877426, "timestamp": "2025-11-22T10:15:15Z", "accuracy": 6.0},
+  {"device_id": "device_2", "latitude": 19.076800, "longitude": 72.878900, "timestamp": "2025-11-22T10:16:45Z", "accuracy": 5.7},
+  {"device_id": "device_2", "latitude": 19.077500, "longitude": 72.880300, "timestamp": "2025-11-22T10:18:15Z", "accuracy": 6.3},
+  {"device_id": "device_2", "latitude": 19.078200, "longitude": 72.881700, "timestamp": "2025-11-22T10:19:45Z", "accuracy": 5.9},
+  {"device_id": "device_3", "latitude": 40.712776, "longitude": -74.005974, "timestamp": "2025-11-22T10:17:00Z", "accuracy": 4.5},
+  {"device_id": "device_3", "latitude": 40.713500, "longitude": -74.004000, "timestamp": "2025-11-22T10:18:30Z", "accuracy": 4.7}
+]
