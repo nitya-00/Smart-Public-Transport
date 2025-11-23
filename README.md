@@ -39,7 +39,8 @@ ETA Predictions: Smarter arrival times using past delays, traffic, weather.
 
 Crowding Alerts: Estimate passenger load via sensors or cameras.
 
-#Tech Stack
+# Tech Stack- 
+
 Frontend: Flutter / React Native
 
 Backend: FastAPI + Streamlit dashboard (previously considered Node.js / Flask)
